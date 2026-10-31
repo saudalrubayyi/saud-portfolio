@@ -28,3 +28,6 @@ This package is **ready for deployment**, but not yet published to a public doma
 
 ## Broadcast Media Gallery (Oct 2026 update)
 Official/publicly published embeds: Netflix Six Kings Slam 2025, WTA Riyadh 2024, DAZN Fury-Usyk 2024; plus editorial World Horse Racing Saudi Cup 2024. Videos are contextual, not individual credits. Images can be added later with permission.
+
+## Photo gallery update (October 2026)
+Ten optimized WebP images were added in assets/photos/. They document Six Kings Slam, WTA Finals, Hajj studio and horse-racing environments. Four original submissions were kept out of the public version: close-up cabling and patch panels, two crew/rigging shots, and a group portrait. Check organization permission and personal image consent before adding them to the public site.
