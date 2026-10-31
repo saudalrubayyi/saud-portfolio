@@ -24,3 +24,7 @@ Open `index.html` in your browser, or run `python3 -m http.server 8000` in this 
 - Add a verified LinkedIn URL and your own approved event/project photos when available.
 
 This package is **ready for deployment**, but not yet published to a public domain.
+
+
+## Broadcast Media Gallery (Oct 2026 update)
+Official/publicly published embeds: Netflix Six Kings Slam 2025, WTA Riyadh 2024, DAZN Fury-Usyk 2024; plus editorial World Horse Racing Saudi Cup 2024. Videos are contextual, not individual credits. Images can be added later with permission.
